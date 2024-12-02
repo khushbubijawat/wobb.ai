@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Introduction",
+      "sections": [
+        {"name": "Overview"},
+        {"name": "Scope"}
+      ]
+    },
+    {
+      "name": "Market Data",
+      "sections": [
+        {"name": "Performance Data"},
+        {"name": "Market Insights"}
+      ]
+    },
+    {
+      "name": "Summary",
+      "sections": [
+        {"name": "Executive Summary"}
+      ]
+    }
+  ]
+  
