@@ -1,0 +1,7 @@
+spacy
+pdfminer.six
+pytesseract
+py2neo
+beautifulsoup4
+requests
+streamlit 
